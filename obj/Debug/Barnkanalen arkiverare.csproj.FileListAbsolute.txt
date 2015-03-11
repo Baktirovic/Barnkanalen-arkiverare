@@ -1,0 +1,15 @@
+c:\users\edina\documents\visual studio 2013\Projects\Barnkanalen arkiverare\Barnkanalen arkiverare\bin\Debug\Barnkanalen arkiverare.exe.config
+c:\users\edina\documents\visual studio 2013\Projects\Barnkanalen arkiverare\Barnkanalen arkiverare\bin\Debug\Barnkanalen arkiverare.exe
+c:\users\edina\documents\visual studio 2013\Projects\Barnkanalen arkiverare\Barnkanalen arkiverare\bin\Debug\Barnkanalen arkiverare.pdb
+c:\users\edina\documents\visual studio 2013\Projects\Barnkanalen arkiverare\Barnkanalen arkiverare\bin\Debug\DirectShowLib-2005.dll
+c:\users\edina\documents\visual studio 2013\Projects\Barnkanalen arkiverare\Barnkanalen arkiverare\bin\Debug\HtmlAgilityPack.dll
+c:\users\edina\documents\visual studio 2013\Projects\Barnkanalen arkiverare\Barnkanalen arkiverare\bin\Debug\Newtonsoft.Json.dll
+c:\users\edina\documents\visual studio 2013\Projects\Barnkanalen arkiverare\Barnkanalen arkiverare\bin\Debug\HtmlAgilityPack.pdb
+c:\users\edina\documents\visual studio 2013\Projects\Barnkanalen arkiverare\Barnkanalen arkiverare\bin\Debug\HtmlAgilityPack.xml
+c:\users\edina\documents\visual studio 2013\Projects\Barnkanalen arkiverare\Barnkanalen arkiverare\bin\Debug\Newtonsoft.Json.pdb
+c:\users\edina\documents\visual studio 2013\Projects\Barnkanalen arkiverare\Barnkanalen arkiverare\bin\Debug\Newtonsoft.Json.xml
+c:\users\edina\documents\visual studio 2013\Projects\Barnkanalen arkiverare\Barnkanalen arkiverare\obj\Debug\Barnkanalen_arkiverare.Form1.resources
+c:\users\edina\documents\visual studio 2013\Projects\Barnkanalen arkiverare\Barnkanalen arkiverare\obj\Debug\Barnkanalen_arkiverare.Properties.Resources.resources
+c:\users\edina\documents\visual studio 2013\Projects\Barnkanalen arkiverare\Barnkanalen arkiverare\obj\Debug\Barnkanalen arkiverare.csproj.GenerateResource.Cache
+c:\users\edina\documents\visual studio 2013\Projects\Barnkanalen arkiverare\Barnkanalen arkiverare\obj\Debug\Barnkanalen arkiverare.exe
+c:\users\edina\documents\visual studio 2013\Projects\Barnkanalen arkiverare\Barnkanalen arkiverare\obj\Debug\Barnkanalen arkiverare.pdb
